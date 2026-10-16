@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "digital-vibes": {
+      "type": "http",
+      "url": "https://edit.digitalvibes.design/mcp"
+    }
+  }
+}
