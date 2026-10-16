@@ -1,7 +1,7 @@
 {
   "name": "digital-vibes-website",
   "displayName": "Digital Vibes Echo",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Edit your Digital Vibes website by asking Claude, in English or Spanish: hours, phone, text, sections and photos. Every change is a private draft with a preview link until you say publish.",
   "author": {
     "name": "Digital Vibes Design",
@@ -9,5 +9,11 @@
   },
   "homepage": "https://digitalvibes.design",
   "repository": "https://github.com/digitalvibes-sites/digital-vibes-echo",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["website", "small business", "bilingual", "spanish", "website editor", "local business"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/digitalvibes-sites/digital-vibes-echo#readme",
+  "supportUrl": "https://digitalvibes.design/contact",
+  "privacyPolicyUrl": "https://digitalvibes.design/privacy-policy",
+  "termsOfServiceUrl": "https://digitalvibes.design/terms"
 }
